@@ -99,6 +99,8 @@ PCAP 从入门到成神
 
 #### 编程库教程（较少，我是没看到能用的）
 
+- [Pcap4J-2.0.0-alpha.6 Java Doc](./res/Pcap4J.v2a6.docset.zip)：Windows 使用 Zeal 导入，Mac 使用 Dash 导入（导入方法自行搜索）
+
 - [Pcap4J-Tutorial](https://github.com/1uvu/pcap4j-tutorial)：按照文档走一遍，甚至抄一遍代码，基本上就是入门了
 - [Packet Kit(Pkit)](https://github.com/1uvu/pkit)：可以参观其中 PCAP 相关的源码
 
