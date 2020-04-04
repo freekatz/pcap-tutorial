@@ -69,11 +69,11 @@ PCAP 从入门到成神
 #### Java
 
 - [Pcap4J](https://www.pcap4j.org/)（只推荐这一个）
-- [pkts]([https://github.com/aboutsip/pkts)（不是纯粹的 PCAP 库，只用于处理 .pcap 文件）
+- [pkts](https://github.com/aboutsip/pkts)（不是纯粹的 PCAP 库，只用于处理 .pcap 文件）
 
 #### Python
 
-- scapy（只推荐这一个）
+- [scapy](https://github.com/secdev/scapy)（只推荐这一个）
 
 #### C#
 
