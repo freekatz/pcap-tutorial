@@ -44,7 +44,7 @@ PCAP 从入门到成神
 - [Programming with pcap](https://www.tcpdump.org/pcap.html)：大致浏览，熟悉一下 PCAP 的基本流程
 
 - [Manpage of PCAP-FILTER](https://www.tcpdump.org/manpages/pcap-filter.7.html)：很重要，可作为手册使用
-- [TCP/IP 详解卷(Ⅰ)](https://www.kancloud.cn/lifei6671/tcp-ip/139758)
+- [TCP/IP 详解卷(Ⅰ)](https://www.kancloud.cn/lifei6671/tcp-ip/139758)：手册
 
 ## 核心库
 
