@@ -1,6 +1,6 @@
 # pcap-tutorial
 
-PCAP 从入门到成神
+PCAP 从入门到成神，PCAP 技术开发的网络数据包工具箱：https://github.com/freekatz/PacketKit
 
 ---
 
@@ -116,6 +116,4 @@ PCAP 从入门到成神
 - [Xcap](http://xcap.weebly.com/)
 - [Awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools)
 
-## 交流群
 
-**1027318465**
